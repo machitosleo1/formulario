@@ -20,7 +20,7 @@ body {
 .section_inicio p {
     color: #555;
     text-align: center;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 300;
     margin-bottom: -30px;
 
@@ -30,10 +30,10 @@ body {
 .btn-action:focus,
 .btn-action:visited {
     background: #0ABEAD;
-    border: 1px solid #0ABEAD;
+    border: 1px solid #00ADD7;
     color: #fff;
     margin-top: 15px;
-    border-radius: 3px;
+    border-radius: 4px;
     padding: 10px 30px;
     text-transform: uppercase;
     -webkit-transition: all 1s;
